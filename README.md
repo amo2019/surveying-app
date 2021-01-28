@@ -16,5 +16,6 @@ Clone repo, install, cd into folder and run:
 npm install
 cd into client folder
 npm install
-npm dev
+cd into the main folder
+npm dev 
 ```
