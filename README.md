@@ -1,6 +1,7 @@
 # react-surveying-app
 
-This is web app to collect feedback from end users
+This is web app to collect feedback from end users,
+this App was built about 2 years ago folowing the tutor, I have added and edited some other features. 
 
 # Tools
 
